@@ -6,7 +6,7 @@
   },
   "css.validate": false,
   "files.associations": {
-    "*.css": "tailwindcss"
+    "*.css": "css"
   },
   "tailwindCSS.includeLanguages": {
     "plaintext": "html"
